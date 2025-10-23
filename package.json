@@ -1,6 +1,6 @@
 {
-  "name": "react-img-editor",
-  "version": "0.2.2",
+  "name": "@msyize/react-img-editor",
+  "version": "0.2.2-snapshot",
   "description": "图片编辑器（微信截图编辑 PRO 版）",
   "keywords": [
     "react-img-editor",
